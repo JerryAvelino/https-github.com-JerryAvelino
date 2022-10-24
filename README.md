@@ -14,7 +14,7 @@
   <img align="center" alt="Jerry-React" height="30" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Jerry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jerry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jerry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jerry-Python" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="Jerry-Python" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Jerry-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   </div>
